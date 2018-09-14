@@ -1,0 +1,127 @@
+h1{
+    text-align: center;
+}
+
+h2{
+    margin-left: 50%;
+}
+
+#yhwach{
+    width: 45%;
+    margin-top: 3%;
+    margin-left: 30%;
+    border: 5px solid;
+}
+
+.yhwach-text{
+    margin-left: 50%;
+}
+
+#ichi{
+    width: 45%;
+    margin-left: 30%;
+    margin-top: 3%;
+    border: 5px solid;
+}
+
+.ichi-text{
+    margin-left: 50%;
+}
+
+#yama{
+    width: 40%;
+    image-orientation: 90deg;
+    margin-left: 35%;
+    margin-top: 3%;
+    border: 5px solid;
+}
+
+.yama-text{
+    margin-left: 50%;
+}
+
+.couleur{
+    color: rgb(162, 94, 226);
+}
+
+#luffy{
+    width: 40%;
+    image-orientation: 90deg;
+    margin-top: 3%;
+    margin-left: 35%;
+    margin-top: 3%;
+    border: 5px solid;
+}
+
+.luffy-text{
+    margin-left: 50%;
+}
+
+#kyo{
+    width: 45%;
+    margin-left: 30%;
+    margin-top: 3%;
+    border: 5px solid;
+}
+
+.kyo-text{
+    margin-left: 50%;
+}
+
+#aizen{
+    width: 40%;
+    image-orientation: 90deg;
+    margin-left: 35%;
+    margin-top: 3%;
+    border: 5px solid;
+}
+
+.aizen-text{
+    margin-left: 52%;
+}
+
+#ichigo{
+    width: 45%;
+    margin-left: 30%;
+    margin-top: 3%;
+    border: 5px solid;
+}
+
+.ichigo-text{
+    margin-left: 50%;
+}
+
+#fms{
+    width: 45%;
+    margin-left: 30%;
+    margin-top: 3%;
+    border: 5px solid;
+}
+
+.fms-text{
+    margin-left: 47%;
+}
+
+#lucifer{
+    width: 40%;
+    image-orientation: 90deg;
+    margin-left: 35%;
+    margin-top: 3%;
+    border: 5px solid;
+}
+
+.lucifer-text{
+    margin-left: 50%;
+}
+
+#blades{
+    width: 40%;
+    image-orientation: 90deg;
+    margin-left: 35%;
+    margin-top: 3%;
+    border: 5px solid;
+}
+
+.blades-text{
+    margin-left: 52%;
+}
